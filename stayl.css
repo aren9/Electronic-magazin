@@ -1,0 +1,88 @@
+.div1{
+width: 100%;
+height: 350px;
+background-image: url(img/head.png);
+background-repeat: no-repeat; 
+background-size: cover;
+}
+h1{
+color: red;
+}
+.div3{
+
+display: flex;
+justify-content: space-around;
+
+}
+a{
+text-decoration: none;
+color: red;
+}
+.div2{
+	width: 100%;
+	height: 100px;
+	background-color: black;
+}
+.div4{
+display: flex;}
+.div5{
+	display: flex;
+	flex-direction: column;
+}
+p{
+font-family: 'Gemunu Libre', sans-serif;
+}
+.div6{
+	width: 50px;
+	height: 50px;
+
+}
+.div7{
+	display: flex;
+
+}
+.div10{
+	width: 200px;
+	height: 200px;
+}
+button{
+width: 200px;
+height: 50px;
+background-color: yellow;
+font-size: 20px;
+
+}
+.iphonex{
+	display: flex;
+	flex-direction: column;
+
+}
+.iphone{
+	display: flex;
+	justify-content: space-around;
+}
+.apple{
+	display: flex;
+}
+.div11{
+	display: flex;
+}
+.div13{
+	display: flex;
+	justify-content: space-around;
+}
+.div14{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+input{
+	border-radius: 10px;
+	width: 300px;
+}
+.div15{
+	height: 300px;
+}
+.div16{
+background-color: gray;
+}
